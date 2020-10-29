@@ -1,0 +1,30 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url(header.jpg);
+  background-size: cover;
+  text-align: center;
+  color: white;
+  
+}
+
+body {
+  justify-content: center;
+}
+
+h1{
+  padding-top: 23%;
+  padding-bottom: 12% ;
+}
+.button {
+  background-color: red;
+  color: white;
+  padding 3%;
+  border-radius: ;
+}
+
+.button:hover {
+  background-color: blue;
+}
